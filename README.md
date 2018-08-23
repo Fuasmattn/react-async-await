@@ -1,4 +1,4 @@
-# See it in action
+## See it in action
 [https://fuasmattn.github.io/react-sandbox/](https://fuasmattn.github.io/react-sandbox/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
